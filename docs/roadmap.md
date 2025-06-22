@@ -19,6 +19,6 @@ graph TD
   C --> C3[🧠 Longest Streak Tracking]
 
   D --> D1[☁️ Optional Cloud Sync]
-  D --> D2[🔐 User Profiles (Local)]
-  D --> D3[📲 Mobile Companion (Experimental)]
+  D --> D2[🔐 User Profiles Local]
+  D --> D3[📲 Mobile Companion Experimental]
 ```
