@@ -18,6 +18,14 @@ HabitWise is a lightweight desktop habit tracker built with Python and Tkinter. 
 
 See the [📄 PROJECT_CHARTER.md](./PROJECT_CHARTER.md) for detailed goals, scope, and versioning milestones.
 
+## 📂 Documentation
+
+- [Architecture Diagram](docs/architecture.md)
+- [Component Map](docs/components.md)
+- [User Journey](docs/user-journey.md)
+- [State Machine](docs/state-machine.md)
+- [Feature Roadmap](docs/roadmap.md)
+
 ---
 
 ## 🧑‍💻 Developer Setup
