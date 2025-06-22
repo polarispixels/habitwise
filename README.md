@@ -2,9 +2,8 @@
 
 Track your habits every day with a distraction-free, local-first app designed for focus, not friction.
 
-> "Sow an action, reap a habit.  
-> Sow a habit, reap a lifestyle."  
-> — *Tony Robbins*
+> “Sow a thought and you reap an action; sow an act and you reap a habit; sow a habit and you reap a character; sow a character and you reap a destiny.” 
+> — *Ralph Waldo Emerson*
 
 ---
 
@@ -108,6 +107,5 @@ MIT License (optional — add if open-sourcing).
 
 ## 💬 Attribution
 
-> "Sow an action, reap a habit.  
-> Sow a habit, reap a lifestyle."  
-> — *Tony Robbins*
+> “Sow a thought and you reap an action; sow an act and you reap a habit; sow a habit and you reap a character; sow a character and you reap a destiny.” 
+> — *Ralph Waldo Emerson*
